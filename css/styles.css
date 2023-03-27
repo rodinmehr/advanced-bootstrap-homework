@@ -98,6 +98,7 @@ p {
 
     h2 {
         font-size: 24px !important;
+        text-align: center;
     }
 
     h3 {
@@ -106,6 +107,7 @@ p {
 
     p {
         font-size: 12px !important;
+        text-align: center;
     }
 
     .navigation-links {
@@ -122,5 +124,10 @@ p {
 
     .secondary-link {
         padding: 11px 11px;
+    }
+
+    .app-link {
+        display: block;
+        text-align: center;
     }
 }
